@@ -1,0 +1,16 @@
+OOPS
+Class
+Interface in python
+Constructor in python
+self keyword
+Inheritance in python
+importing user define modules
+special variables like __doc__, __name__, __module__, __dict__, 
+
+Method chaining
+function chaining
+constructor
+inheritance within the class
+
+ @staticmethod
+using method with self keyword

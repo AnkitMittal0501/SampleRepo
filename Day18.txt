@@ -1,0 +1,32 @@
+Networking
+IP 
+Static Vs dynamic IP
+Port
+netstat -a -b -n
+Http 80
+Https 4434
+FTP 20
+SMTP 25
+POP3 110
+IMAP4 143
+Telnet 23
+webopedia.com/quick_ref/portnumbers.asp
+Socket: 
+socket.socket() // create socket
+s.bind(host,port)//bind socket
+s.send() // send msg to other sys
+s.listen() //listen by rcvr
+s.recv() //acknowledge msg rcv and decode in sys
+s.close() //socket closed
+
+Direct and Reverse Connection
+Direct: create socket and send req to rcvr and wait fot acceptance req ip address of our sys n frns sys
+
+Reverse: used by hackers nad send by using email or usb pendrive using file installed.
+
+Create a cloud server on cloudways.com
+download putty
+generate keys
+generate clouse server on cloudways
+use ip address in putty and add pvt key 
+launch server and create new folder
