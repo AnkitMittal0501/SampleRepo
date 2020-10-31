@@ -1,0 +1,29 @@
+
+Client vs Server Model 
+Rest Vs Soap
+Git
+1. List declaration
+2. Handling of List 
+3. Multiple assignment
+4. Swapping of values
+5. In-built methods in python used in List
+6. append()
+7. insert()
+8. remove()
+9. index()
+10. sort()
+11. sort(reverse=True)
+12. sort(key=str.lower)
+13. extend for eg list.extend(['a','b'])
+14. list[-2:]
+15 Nested List
+16. list()
+17. Muttable vs Immutable
+18. for loop with List and len of list
+19. Membership operator in case of List
+20. del keyword with list
+21. pop() with list
+22. clear method in case list    
+23. count for list
+24. reverse() for list
+25. creating list using range fn    
